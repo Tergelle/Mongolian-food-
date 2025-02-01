@@ -1,0 +1,9 @@
+streamlit
+fastai
+fastcore
+pillow
+gdown
+matplotlib
+torch
+torchvision
+tqdm
