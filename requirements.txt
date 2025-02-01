@@ -1,5 +1,5 @@
 streamlit
-fastai
+fastai==2.7.18
 fastcore
 pillow
 gdown
